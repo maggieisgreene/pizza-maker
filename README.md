@@ -4,7 +4,7 @@
 Use this application to select pizaa toppings and get a final cost for your pizza creation.
 
 ## Screenshots
-
+![Pizza Maker Preview](https://raw.githubusercontent.com/maggieisgreene/pizza-maker/master/screenshots/mainview.png)
 
 ## How to run
 * Clone down this project
